@@ -4,7 +4,11 @@
 
 .navbar{
   padding: 1%;
-  background-color: #fff;
+}
+
+.main-div{
+  margin-left: 70px;
+  margin-top: 100px;
 }
 
 .logo{
@@ -15,4 +19,28 @@
 
 .nav-search{
   margin: 0 0 0 10px;
+}
+
+.main-container{
+  margin-top: 80px;
+}
+
+/* .main-heading{
+  margin-left: 50px;
+} */
+
+.card-heading{
+  text-align: center;
+  margin-bottom: 40px;
+  margin-top: 10px;
+}
+.card{
+  margin: 10px;
+}
+
+.main-p{
+  font-size: 125%;
+}
+.main-img{
+  width: 50%;
 }
