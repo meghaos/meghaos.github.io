@@ -1,65 +1,77 @@
+.first-div{
+  padding: 50px 100px 0 150px;
+}
 .top-bar{
   margin: 0 70px 0 auto;
 }
 
+.mainp{
+  padding: 50px 150px 50px 150px;
+}
 .navbar{
   padding: 1%;
   background-color: #000;
 }
 
-.main-div{
-  margin-left: 70px;
-  margin-top: 100px;
-}
 
 .logo{
   margin-right: 10px;
   margin: 0 10px 0 70px;
-  border-radius: 10px;
 }
 
 .nav-search{
   margin: 0 0 0 10px;
 }
 
-.main-container{
-  margin-top: 80px;
-}
 
-/* .main-heading{
-  margin-left: 50px;
-} */
 
 .card-heading{
   text-align: center;
   margin-bottom: 40px;
   margin-top: 20px;
 }
-.card{
-  margin: 10px;
-}
+
 
 .main-p{
   font-size: 125%;
+  color: #CCCCCC;
 }
 .main-img{
   width: 50%;
 }
 
-.image12{
-  width: 50%;
-  border-radius: 1500px;
-}
 
 .card{
-  border-radius: 10px;
-  border-style:dotted;
-  border-width: 150%;
+  margin: 10px;
+  border-radius: 5px;
+  border-width: 100%;
   transition: 0.4s;
+  background-color: #DFDFE5;
+
 }
 
 .card:hover{
-  background-color: black;
-  color: white;
+  background-color: #323232;
+  color: orange;
+}
 
+.fab{
+  font-size: 100px;
+  margin: 0 5px 0 5px;
+}
+
+.fab:hover{
+  transition: 0.4s;
+  color: blue;
+}
+.fa-instagram:hover{
+  transition: 0.4s;
+  color: red;
+}
+
+footer{
+  color: #fff;
+  background-color: #000;
+  padding: 15px 0 15px 0;
+  text-align: center;
 }
