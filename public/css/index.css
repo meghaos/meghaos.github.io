@@ -23,6 +23,10 @@
   margin: 0 0 0 10px;
 }
 
+.navSearch{
+  background-color: #000;
+  border-color: green;
+}
 
 
 .card-heading{
@@ -31,6 +35,9 @@
   margin-top: 20px;
 }
 
+.card-p{
+  padding: 0 5px 5px 5px
+}
 
 .main-p{
   font-size: 125%;
@@ -58,15 +65,27 @@
 .fab{
   font-size: 100px;
   margin: 0 5px 0 5px;
+  color: #3b5998;
 }
 
 .fab:hover{
   transition: 0.4s;
-  color: blue;
+  color: black;
 }
-.fa-instagram:hover{
+.fa-instagram{
   transition: 0.4s;
   color: red;
+}
+
+.soft{
+  padding: 75px;
+  margin: 10px;
+  background-color: #f2f2f2;
+}
+
+.trans{
+  color: #CCCCCC;
+  background-color: #000;
 }
 
 footer{
