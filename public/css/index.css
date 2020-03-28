@@ -14,6 +14,7 @@
 }
 
 
+
 .logo{
   margin-right: 10px;
   margin: 0 10px 0 70px;
@@ -71,6 +72,10 @@
 .fab:hover{
   transition: 0.4s;
   color: black;
+}
+
+.fa-twitter{
+  color: #1DA1F2;
 }
 .fa-instagram{
   transition: 0.4s;
