@@ -1,0 +1,25 @@
+body{
+  background-color: #000;
+  color: #f2f2f2;
+  border-color:  #f2f2f2;
+  font-family: 'Rubik', sans-serif;
+}
+
+h1{
+  padding: 50px 0 50px 0;
+  text-align: center;
+}
+
+img{
+  margin-left: 70px;
+}
+
+.form-control{
+  width:75%;
+  border-color: #fff;
+  background-color:  #000;
+}
+
+.form-div{
+  padding-top: 20px;
+}
