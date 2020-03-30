@@ -12,6 +12,9 @@
   },
   "author": "Prakash",
   "license": "ISC",
+  "engines": {
+    "node": "12.16.1"
+  },
   "bugs": {
     "url": "https://github.com/meghaos/meghaos.github.io/issues"
   },
